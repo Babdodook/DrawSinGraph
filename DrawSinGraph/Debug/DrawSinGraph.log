@@ -1,0 +1,43 @@
+﻿  소스.cpp
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(97,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(99,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(104,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(104,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(125,75): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(125,50): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(126,78): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(126,53): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(127,76): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(127,51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(128,79): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(128,54): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(138,75): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(138,50): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(139,78): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(139,53): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(140,76): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(140,51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(141,79): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(141,54): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(146,66): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(146,43): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(147,69): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(147,46): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(148,69): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(148,48): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(149,70): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(149,49): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(204,62): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(204,43): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(205,66): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(205,41): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(206,66): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(206,41): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(216,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(216,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(216,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(216,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(231,30): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(232,30): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dol42\source\repos\DrawSinGraph\DrawSinGraph\소스.cpp(240,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DrawSinGraph.vcxproj -> C:\Users\dol42\source\repos\DrawSinGraph\Debug\DrawSinGraph.exe
